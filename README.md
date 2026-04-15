@@ -21,4 +21,5 @@ This project helps users manage monthly budgets, track expenses, and analyze spe
 ## ▶️ How to Run
 
 ```bash
-python your_file_name.py
+personal finance tracker
+
